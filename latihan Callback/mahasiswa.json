@@ -1,0 +1,23 @@
+[
+    {
+        "nama" : "nabil alfaatir",
+        "nim" : "17220451",
+        "hobi":"bermain basket",
+        "email" : "nabil@gmail.com",
+        "id murid" : 1
+    },
+    {
+        "nama" : "yogi",
+        "nim" : "17220452",
+        "hobi":"bermain bola",
+        "email" : "yogi@gmail.com",
+        "id murid" : 2
+    },
+    {
+        "nama" : "budi",
+        "nim" : "17220453",
+        "hobi":"bermain air",
+        "email" : "budi@gmail.com",
+        "id murid" : 2
+    }
+]
